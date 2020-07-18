@@ -6,5 +6,8 @@ coverage/
 git_stats/
 yarn-offline/
 docs/
+/src/*
+/config/*
+/build/*
 jest.config.js
 test/__mock__/
